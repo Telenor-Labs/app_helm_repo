@@ -3,7 +3,7 @@ entries:
   ntnu-aas:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-02-08T04:31:42.376785595Z"
+    created: "2023-02-08T04:40:25.95234032Z"
     description: A Helm chart for Kubernetes
     digest: 2e5450ef74cf3984838ec7313315541109cfc3732c1072a68e6b094ea316a92a
     name: ntnu-aas
@@ -11,15 +11,15 @@ entries:
     urls:
     - ntnu-aas-1.0.0.tgz
     version: 1.0.0
-  test-hello-openshift-paloalto:
+  yara-rsca:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-02-08T04:31:42.377273203Z"
+    appVersion: 1.0.0
+    created: "2023-02-08T04:40:25.952863457Z"
     description: A Helm chart for Kubernetes
-    digest: c8ff6d50cfb4cb73a1475d1e2fd16d3b7ea61f4310b2d236c671af1e64a17393
-    name: test-hello-openshift-paloalto
+    digest: a628b3247d3bb5a847b93482a922a50c164797f12726b1b958c4067020f5705f
+    name: yara-rsca
     type: application
     urls:
-    - test-hello-openshift-paloalto.tgz
-    version: 0.1.0
-generated: "2023-02-08T04:31:42.375952982Z"
+    - yara-rsca-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-02-08T04:40:25.951546115Z"
